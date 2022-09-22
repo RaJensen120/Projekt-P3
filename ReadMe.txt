@@ -18,5 +18,5 @@ Project P3
 
 # Testing
   - Unit testing will be performed on the product.
-  - Testing will be designed along with the product.
-  - Test cases will be available for testing during changes in the development.
+  - Integration testing will be performed on the product.
+  - Testing might be performed on the product during development.

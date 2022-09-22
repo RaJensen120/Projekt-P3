@@ -17,7 +17,6 @@ Project P3
   - When parts of the group work on a functionality, they may branch and merge from 2nd branch level without the entire groups consent.
 
 # Testing
-  - Testing will be done with Test Driven Development(TDD).
   - Unit testing will be performed on the product.
   - Testing will be designed along with the product.
   - Test cases will be available for testing during changes in the development.

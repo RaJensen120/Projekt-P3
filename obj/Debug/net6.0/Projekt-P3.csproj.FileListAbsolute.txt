@@ -1,0 +1,15 @@
+/Users/Andrzej/Documents/Projekt-P3/bin/Debug/net6.0/Projekt-P3
+/Users/Andrzej/Documents/Projekt-P3/bin/Debug/net6.0/Projekt-P3.deps.json
+/Users/Andrzej/Documents/Projekt-P3/bin/Debug/net6.0/Projekt-P3.runtimeconfig.json
+/Users/Andrzej/Documents/Projekt-P3/bin/Debug/net6.0/Projekt-P3.dll
+/Users/Andrzej/Documents/Projekt-P3/bin/Debug/net6.0/Projekt-P3.pdb
+/Users/Andrzej/Documents/Projekt-P3/obj/Debug/net6.0/Projekt-P3.csproj.AssemblyReference.cache
+/Users/Andrzej/Documents/Projekt-P3/obj/Debug/net6.0/Projekt-P3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Andrzej/Documents/Projekt-P3/obj/Debug/net6.0/Projekt-P3.AssemblyInfoInputs.cache
+/Users/Andrzej/Documents/Projekt-P3/obj/Debug/net6.0/Projekt-P3.AssemblyInfo.cs
+/Users/Andrzej/Documents/Projekt-P3/obj/Debug/net6.0/Projekt-P3.csproj.CoreCompileInputs.cache
+/Users/Andrzej/Documents/Projekt-P3/obj/Debug/net6.0/Projekt-P3.dll
+/Users/Andrzej/Documents/Projekt-P3/obj/Debug/net6.0/refint/Projekt-P3.dll
+/Users/Andrzej/Documents/Projekt-P3/obj/Debug/net6.0/Projekt-P3.pdb
+/Users/Andrzej/Documents/Projekt-P3/obj/Debug/net6.0/Projekt-P3.genruntimeconfig.cache
+/Users/Andrzej/Documents/Projekt-P3/obj/Debug/net6.0/ref/Projekt-P3.dll

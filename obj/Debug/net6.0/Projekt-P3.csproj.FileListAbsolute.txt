@@ -1,3 +1,6 @@
+/Users/Andrzej/Documents/Projekt-P3/bin/Debug/net6.0/appsettings.Development.json
+/Users/Andrzej/Documents/Projekt-P3/bin/Debug/net6.0/appsettings.json
+/Users/Andrzej/Documents/Projekt-P3/bin/Debug/net6.0/Projekt-P3.staticwebassets.runtime.json
 /Users/Andrzej/Documents/Projekt-P3/bin/Debug/net6.0/Projekt-P3
 /Users/Andrzej/Documents/Projekt-P3/bin/Debug/net6.0/Projekt-P3.deps.json
 /Users/Andrzej/Documents/Projekt-P3/bin/Debug/net6.0/Projekt-P3.runtimeconfig.json
@@ -8,6 +11,14 @@
 /Users/Andrzej/Documents/Projekt-P3/obj/Debug/net6.0/Projekt-P3.AssemblyInfoInputs.cache
 /Users/Andrzej/Documents/Projekt-P3/obj/Debug/net6.0/Projekt-P3.AssemblyInfo.cs
 /Users/Andrzej/Documents/Projekt-P3/obj/Debug/net6.0/Projekt-P3.csproj.CoreCompileInputs.cache
+/Users/Andrzej/Documents/Projekt-P3/obj/Debug/net6.0/Projekt-P3.MvcApplicationPartsAssemblyInfo.cache
+/Users/Andrzej/Documents/Projekt-P3/obj/Debug/net6.0/Projekt-P3.RazorAssemblyInfo.cache
+/Users/Andrzej/Documents/Projekt-P3/obj/Debug/net6.0/Projekt-P3.RazorAssemblyInfo.cs
+/Users/Andrzej/Documents/Projekt-P3/obj/Debug/net6.0/staticwebassets.build.json
+/Users/Andrzej/Documents/Projekt-P3/obj/Debug/net6.0/staticwebassets.development.json
+/Users/Andrzej/Documents/Projekt-P3/obj/Debug/net6.0/scopedcss/Pages/Shared/_Layout.cshtml.rz.scp.css
+/Users/Andrzej/Documents/Projekt-P3/obj/Debug/net6.0/scopedcss/bundle/Projekt-P3.styles.css
+/Users/Andrzej/Documents/Projekt-P3/obj/Debug/net6.0/scopedcss/projectbundle/Projekt-P3.bundle.scp.css
 /Users/Andrzej/Documents/Projekt-P3/obj/Debug/net6.0/Projekt-P3.dll
 /Users/Andrzej/Documents/Projekt-P3/obj/Debug/net6.0/refint/Projekt-P3.dll
 /Users/Andrzej/Documents/Projekt-P3/obj/Debug/net6.0/Projekt-P3.pdb
